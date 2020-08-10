@@ -1,0 +1,299 @@
+Xsession: X session started for cloud_user at Mon Aug 10 05:54:57 UTC 2020
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+localuser:cloud_user being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+dbus-update-activation-environment: setting USER=cloud_user
+dbus-update-activation-environment: setting HOME=/home/cloud_user
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-lSEizwuOWX,guid=29fdd8534314e562b8abec2d5f30e131
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=cloud_user
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1000
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/cloud_user
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+xfce4-session-Message: 05:54:58.168: SSH authentication agent is already running
+gpg-agent[16605]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:16598): xfce4-session-WARNING **: 05:54:58.174: gpg-agent returned no PID in the variables
+
+(xfce4-session:16598): xfce4-session-WARNING **: 05:54:58.176: xfsm_manager_load_session: Something wrong with /home/cloud_user/.cache/sessions/xfce4-session-Vlab-testgit:10, Does it exist? Permissions issue?
+
+(xfwm4:16609): GLib-CRITICAL **: 05:54:58.214: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfwm4:16609): xfwm4-WARNING **: 05:54:58.256: The property '/general/double_click_distance' of type int is not supported
+
+(xfdesktop:16618): Gtk-WARNING **: 05:54:58.291: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:16618): Gtk-WARNING **: 05:54:58.292: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:16618): Gtk-WARNING **: 05:54:58.292: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:16598): Gtk-WARNING **: 05:54:58.296: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:16615): Gtk-WARNING **: 05:54:58.296: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:16615): Gtk-WARNING **: 05:54:58.297: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:16615): Gtk-WARNING **: 05:54:58.298: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:16618): Gtk-WARNING **: 05:54:58.299: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:16618): Gtk-WARNING **: 05:54:58.300: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:16615): Gtk-WARNING **: 05:54:58.304: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:16615): Gtk-WARNING **: 05:54:58.304: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:16598): Gtk-WARNING **: 05:54:58.305: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:16598): Gtk-WARNING **: 05:54:58.305: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:16598): Gtk-WARNING **: 05:54:58.319: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:16598): Gtk-WARNING **: 05:54:58.320: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:16617): GLib-CRITICAL **: 05:54:58.378: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(migrate:16632): Gtk-WARNING **: 05:54:58.379: Unable to locate theme engine in module_path: "pixmap",
+
+(migrate:16632): Gtk-WARNING **: 05:54:58.380: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:16617): GLib-GObject-CRITICAL **: 05:54:58.382: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(migrate:16632): Gtk-WARNING **: 05:54:58.382: Unable to locate theme engine in module_path: "pixmap",
+
+(migrate:16632): Gtk-WARNING **: 05:54:58.389: Unable to locate theme engine in module_path: "pixmap",
+
+(migrate:16632): Gtk-WARNING **: 05:54:58.390: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:16617): GLib-GObject-CRITICAL **: 05:54:58.411: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfwm4:16609): xfwm4-WARNING **: 05:54:58.438: Error opening /dev/dri/card0: No such file or directory
+
+(xfsettingsd:16617): Gtk-WARNING **: 05:54:58.458: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:16617): Gtk-WARNING **: 05:54:58.459: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:16617): Gtk-WARNING **: 05:54:58.459: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:16617): Gtk-WARNING **: 05:54:58.460: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:16617): Gtk-WARNING **: 05:54:58.460: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:16609): xfwm4-WARNING **: 05:54:58.898: Another compositing manager is running on screen 0
+
+(xfwm4:16609): Gtk-WARNING **: 05:54:58.912: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:16609): Gtk-WARNING **: 05:54:58.914: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:16609): Gtk-WARNING **: 05:54:58.914: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:16609): Gtk-WARNING **: 05:54:58.916: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:16609): Gtk-WARNING **: 05:54:58.916: Unable to locate theme engine in module_path: "pixmap",
+
+** (xfdesktop:16618): WARNING **: 05:54:58.984: Failed to set the background '/usr/share/backgrounds/xfce/xfce-teal.jpg': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'org.freedesktop.DisplayManager.AccountsService'
+
+(xfce4-panel:16613): Gtk-WARNING **: 05:55:08.212: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:16613): Gtk-WARNING **: 05:55:08.212: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:16613): Gtk-WARNING **: 05:55:08.212: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:16613): Gtk-WARNING **: 05:55:08.214: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:16613): Gtk-WARNING **: 05:55:08.214: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:16711): Gtk-WARNING **: 05:55:08.323: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:16711): Gtk-WARNING **: 05:55:08.324: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:16711): Gtk-WARNING **: 05:55:08.324: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:16711): Gtk-WARNING **: 05:55:08.326: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:16711): Gtk-WARNING **: 05:55:08.326: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:16712): Gtk-WARNING **: 05:55:08.336: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:16712): Gtk-WARNING **: 05:55:08.337: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:16712): Gtk-WARNING **: 05:55:08.337: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:16712): Gtk-WARNING **: 05:55:08.339: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:16712): Gtk-WARNING **: 05:55:08.340: Unable to locate theme engine in module_path: "pixmap",
+[18520:18520:0810/060032.582893:ERROR:viz_main_impl.cc(150)] Exiting GPU process due to errors during initialization
+[0810/060103.775411:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+
+(xfdesktop:16618): Gtk-CRITICAL **: 06:01:08.398: IA__gtk_widget_get_toplevel: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfdesktop:16618): Gtk-CRITICAL **: 06:01:08.398: IA__gtk_widget_get_screen: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfdesktop:16618): Gtk-CRITICAL **: 06:02:02.583: IA__gtk_widget_get_toplevel: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfdesktop:16618): Gtk-CRITICAL **: 06:02:02.583: IA__gtk_widget_get_screen: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfsettingsd:16617): GLib-GObject-WARNING **: 06:06:35.936: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+
+(xfwm4:16609): libxfce4ui-WARNING **: 06:06:35.987: ICE I/O Error
+
+(xfwm4:16609): libxfce4ui-WARNING **: 06:06:35.987: Disconnected from session manager.
+xfwm4: Fatal IO error 25 (Inappropriate ioctl for device) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for cloud_user at Mon Aug 10 06:18:23 UTC 2020
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:cloud_user being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=cloud_user
+dbus-update-activation-environment: setting HOME=/home/cloud_user
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=cloud_user
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1000
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/cloud_user
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+xfce4-session-Message: 06:18:34.024: SSH authentication agent is already running
+gpg-agent[2110]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:2099): xfce4-session-WARNING **: 06:18:34.034: gpg-agent returned no PID in the variables
+
+(xfce4-session:2099): xfce4-session-WARNING **: 06:18:34.054: xfsm_manager_load_session: Something wrong with /home/cloud_user/.cache/sessions/xfce4-session-Vlab-testgit:10, Does it exist? Permissions issue?
+
+(xfdesktop:2122): Gtk-WARNING **: 06:18:34.772: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:2118): Gtk-WARNING **: 06:18:34.772: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:2122): Gtk-WARNING **: 06:18:34.773: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:2118): Gtk-WARNING **: 06:18:34.774: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:2099): Gtk-WARNING **: 06:18:34.774: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:2120): Gtk-WARNING **: 06:18:34.774: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:2120): Gtk-WARNING **: 06:18:34.776: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:2099): Gtk-WARNING **: 06:18:34.776: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:2118): Gtk-WARNING **: 06:18:34.788: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:2099): Gtk-WARNING **: 06:18:34.788: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:2122): Gtk-WARNING **: 06:18:34.789: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:2120): Gtk-WARNING **: 06:18:34.789: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:2120): Gtk-WARNING **: 06:18:34.809: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:2122): Gtk-WARNING **: 06:18:34.809: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:2120): Gtk-WARNING **: 06:18:34.809: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:2122): Gtk-WARNING **: 06:18:34.809: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:2118): Gtk-WARNING **: 06:18:34.810: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:2099): Gtk-WARNING **: 06:18:34.810: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:2118): Gtk-WARNING **: 06:18:34.810: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:2099): Gtk-WARNING **: 06:18:34.811: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:2135): Gtk-WARNING **: 06:18:34.914: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:2135): Gtk-WARNING **: 06:18:34.914: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:2135): Gtk-WARNING **: 06:18:34.914: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:2135): Gtk-WARNING **: 06:18:34.915: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:2135): Gtk-WARNING **: 06:18:34.915: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:2114): Gtk-WARNING **: 06:18:35.483: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:2114): Gtk-WARNING **: 06:18:35.483: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:2114): Gtk-WARNING **: 06:18:35.483: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:2114): Gtk-WARNING **: 06:18:35.485: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:2114): Gtk-WARNING **: 06:18:35.485: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:2135): xfsettingsd-WARNING **: 06:18:35.738: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:2114): xfwm4-WARNING **: 06:18:35.937: Error opening /dev/dri/card0: No such file or directory
+
+(wrapper-1.0:2208): Gtk-WARNING **: 06:18:36.682: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:2208): Gtk-WARNING **: 06:18:36.682: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:2208): Gtk-WARNING **: 06:18:36.683: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:2208): Gtk-WARNING **: 06:18:36.684: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:2208): Gtk-WARNING **: 06:18:36.684: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:2207): Gtk-WARNING **: 06:18:36.707: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:2207): Gtk-WARNING **: 06:18:36.707: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:2207): Gtk-WARNING **: 06:18:36.707: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:2207): Gtk-WARNING **: 06:18:36.708: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:2207): Gtk-WARNING **: 06:18:36.708: Unable to locate theme engine in module_path: "pixmap",
+
+** (xfdesktop:2122): WARNING **: 06:18:37.516: Failed to set the background '/usr/share/backgrounds/xfce/xfce-teal.jpg': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'org.freedesktop.DisplayManager.AccountsService'
+[8595:8595:0810/092210.410691:ERROR:viz_main_impl.cc(150)] Exiting GPU process due to errors during initialization
+[8599:8599:0810/092210.410479:ERROR:viz_main_impl.cc(150)] Exiting GPU process due to errors during initialization
+[8636:8636:0810/092210.410383:ERROR:viz_main_impl.cc(150)] Exiting GPU process due to errors during initialization
+[8593:8593:0810/092210.411944:ERROR:viz_main_impl.cc(150)] Exiting GPU process due to errors during initialization
+Opening in existing browser session.
+[0810/092215.138119:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+Opening in existing browser session.
+Opening in existing browser session.
+[0810/092215.238373:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[0810/092215.238707:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[8877:13:0810/092457.959762:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/decrypting_video_decoder.cc\",\"line\":53}],\"status_code\":264,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"DecryptingVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[8877:13:0810/092457.963774:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/vpx_video_decoder.cc\",\"line\":135}],\"status_code\":265,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"VpxVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[8877:13:0810/092457.964145:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{\"codec\":\"h264\"},\"stack\":[{\"file\":\"../../media/filters/dav1d_video_decoder.cc\",\"line\":165}],\"status_code\":260,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"Dav1dVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[8877:13:0810/092627.784795:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/decrypting_video_decoder.cc\",\"line\":53}],\"status_code\":264,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"DecryptingVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[8877:13:0810/092627.785067:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/vpx_video_decoder.cc\",\"line\":135}],\"status_code\":265,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"VpxVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[8877:13:0810/092627.785158:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{\"codec\":\"h264\"},\"stack\":[{\"file\":\"../../media/filters/dav1d_video_decoder.cc\",\"line\":165}],\"status_code\":260,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"Dav1dVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[8877:13:0810/092627.805163:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/decrypting_video_decoder.cc\",\"line\":53}],\"status_code\":264,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"DecryptingVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[8877:13:0810/092627.813667:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/vpx_video_decoder.cc\",\"line\":135}],\"status_code\":265,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"VpxVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[8877:13:0810/092627.813955:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{\"codec\":\"h264\"},\"stack\":[{\"file\":\"../../media/filters/dav1d_video_decoder.cc\",\"line\":165}],\"status_code\":260,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"Dav1dVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[8877:13:0810/092842.398887:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/decrypting_video_decoder.cc\",\"line\":53}],\"status_code\":264,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"DecryptingVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[8877:13:0810/092842.398994:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/vpx_video_decoder.cc\",\"line\":135}],\"status_code\":265,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"VpxVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[8877:13:0810/092842.399668:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{\"codec\":\"h264\"},\"stack\":[{\"file\":\"../../media/filters/dav1d_video_decoder.cc\",\"line\":165}],\"status_code\":260,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"Dav1dVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[8713:8713:0810/093012.467263:ERROR:gles2_cmd_decoder.cc(3601)] ContextResult::kFatalFailure: fail_if_major_perf_caveat + swiftshader
+[8713:8713:0810/093012.473793:ERROR:gles2_cmd_decoder.cc(3601)] ContextResult::kFatalFailure: fail_if_major_perf_caveat + swiftshader
